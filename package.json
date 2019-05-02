@@ -13,6 +13,10 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanmaorta/test-npm-package"
+  },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
