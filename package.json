@@ -1,6 +1,6 @@
 {
   "name": "@juanmaorta/test-package",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "testing npm publishing",
   "main": "lib/index.js",
   "scripts": {
